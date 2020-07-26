@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "1165c5c7-c567-4f91-ba15-6ac32379fc53",
+		"name": "Bootcamp Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "My first API Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "httpbin.org/get?p1=testing&p2=bootcamp",
+					"host": [
+						"httpbin",
+						"org"
+					],
+					"path": [
+						"get"
+					],
+					"query": [
+						{
+							"key": "p1",
+							"value": "testing"
+						},
+						{
+							"key": "p2",
+							"value": "bootcamp"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
