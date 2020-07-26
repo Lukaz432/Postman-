@@ -1,17 +1,17 @@
 {
-	"id": "7c2427ef-8b64-46fe-a38b-d9d611e2a44b",
+	"id": "5dc1eb09-fc86-4e9e-adba-966f17f23e28",
 	"name": "Bootcamp Collection",
-	"timestamp": "2020-07-26T17:21:37.351Z",
+	"timestamp": "2020-07-26T18:28:53.099Z",
 	"collection_id": "1165c5c7-c567-4f91-ba15-6ac32379fc53",
 	"folder_id": 0,
-	"environment_id": "0",
-	"totalPass": 39,
-	"totalFail": 1,
+	"environment_id": "50f62e12-02e5-49f5-82a9-a50593d4d2e3",
+	"totalPass": 391,
+	"totalFail": 9,
 	"results": [
 		{
 			"id": "c9381666-d4b7-472f-8b69-0f40e514afc3",
 			"name": "My first API (GET) Request",
-			"time": 110,
+			"time": 109,
 			"responseCode": {
 				"code": 200,
 				"name": "OK"
@@ -22,30 +22,480 @@
 			},
 			"testPassFailCounts": {
 				"Status code is 200": {
-					"pass": 10,
+					"pass": 100,
 					"fail": 0
 				},
 				"Response time is less than 200ms": {
-					"pass": 9,
-					"fail": 1
+					"pass": 96,
+					"fail": 4
 				}
 			},
 			"times": [
-				241,
-				110,
-				111,
-				111,
 				110,
 				109,
+				110,
+				111,
+				111,
+				109,
+				110,
+				110,
+				109,
+				109,
+				111,
+				109,
+				109,
+				110,
+				109,
+				110,
+				110,
+				109,
+				110,
+				110,
+				109,
+				109,
+				110,
+				109,
+				109,
+				111,
+				109,
+				110,
+				111,
+				264,
+				109,
+				224,
+				111,
+				109,
+				111,
+				143,
+				326,
+				133,
+				110,
+				109,
+				320,
+				118,
+				111,
+				109,
+				110,
+				109,
+				110,
+				111,
+				114,
+				109,
+				110,
+				109,
+				110,
+				125,
+				109,
 				112,
+				109,
+				111,
+				109,
+				112,
+				111,
+				109,
+				110,
+				109,
+				113,
 				110,
 				110,
-				110
+				109,
+				111,
+				109,
+				109,
+				110,
+				109,
+				109,
+				109,
+				109,
+				109,
+				110,
+				111,
+				110,
+				110,
+				109,
+				109,
+				109,
+				110,
+				109,
+				109,
+				109,
+				109,
+				109,
+				156,
+				109,
+				110,
+				109,
+				110,
+				109,
+				109,
+				110,
+				109,
+				109
 			],
 			"allTests": [
 				{
 					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
 					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
 				},
 				{
 					"Status code is 200": true,
@@ -99,27 +549,477 @@
 			},
 			"testPassFailCounts": {
 				"Status code is 200": {
-					"pass": 10,
+					"pass": 100,
 					"fail": 0
 				},
 				"Response time is less than 200ms": {
-					"pass": 10,
-					"fail": 0
+					"pass": 95,
+					"fail": 5
 				}
 			},
 			"times": [
+				110,
+				110,
+				109,
+				110,
+				109,
+				109,
+				292,
+				110,
+				109,
 				112,
-				113,
+				111,
+				109,
+				267,
+				109,
+				109,
+				110,
+				110,
+				111,
 				111,
 				110,
 				110,
 				110,
+				109,
+				109,
+				110,
+				109,
+				109,
+				109,
+				109,
+				224,
+				111,
+				110,
+				112,
 				110,
 				110,
+				110,
+				109,
+				109,
+				110,
+				109,
+				110,
+				110,
+				109,
+				142,
+				244,
+				109,
+				116,
+				109,
+				109,
+				110,
+				110,
+				111,
+				111,
+				110,
+				110,
+				110,
+				109,
+				109,
+				109,
+				109,
+				112,
+				110,
+				109,
+				109,
+				111,
+				109,
+				187,
+				111,
+				110,
+				110,
+				110,
+				109,
+				110,
+				109,
+				109,
+				109,
+				110,
+				109,
+				110,
+				110,
+				296,
+				110,
+				111,
+				114,
+				110,
+				110,
+				110,
+				109,
+				109,
+				111,
+				110,
+				110,
+				109,
+				110,
+				111,
+				110,
+				110,
+				109,
 				111,
 				110
 			],
 			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				},
 				{
 					"Status code is 200": true,
 					"Response time is less than 200ms": true
@@ -163,8 +1063,8 @@
 			]
 		}
 	],
-	"count": 10,
-	"totalTime": 2341,
+	"count": 100,
+	"totalTime": 23670,
 	"collection": {
 		"requests": [
 			{
