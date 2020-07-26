@@ -6,7 +6,25 @@
 	},
 	"item": [
 		{
-			"name": "My first API Request",
+			"name": "My first API (GET) Request",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "b0e8f5ef-3676-4e16-9db0-6907e7cb8165",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -35,6 +53,24 @@
 		},
 		{
 			"name": "My first post request",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "18589c72-75be-46ac-a29b-c1f93c749d67",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Response time is less than 200ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
 			"request": {
 				"method": "POST",
 				"header": [],
